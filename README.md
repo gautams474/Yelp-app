@@ -9,21 +9,21 @@ Time spent: 12 hours spent in total
 ## User Stories
 
 The following **required** functionality is complete:
-* [ x ] Table rows for search results should be dynamic height according to the content height.
-* [ x ] Custom cells should have the proper Auto Layout constraints.
-* [ x ] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does).
+* [x] Table rows for search results should be dynamic height according to the content height.
+* [x] Custom cells should have the proper Auto Layout constraints.
+* [x] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does).
 
 
 The following **optional** features are implemented:
-* [ x ] Infinite scroll for restaurant results.
-* [ x ] Implement map view of restaurant results.
+* [x] Infinite scroll for restaurant results.
+* [x] Implement map view of restaurant results.
 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[Imgur](http://i.imgur.com/7JK6Ukp.gifv' title=Yelp1 width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/7JK6Ukp.gifv' title=Yelp1 width='' alt='Video Walkthrough' />
 
 ## License
 
