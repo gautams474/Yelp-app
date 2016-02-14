@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/7JK6Ukp.gifv' title=Yelp1 width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/7JK6Ukp.gif' title=Yelp1 width='' alt='Video Walkthrough' />
 
 ## License
 
